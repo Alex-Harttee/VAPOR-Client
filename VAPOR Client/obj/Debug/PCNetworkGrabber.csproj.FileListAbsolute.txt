@@ -1,0 +1,9 @@
+C:\Users\ALEX\source\repos\PCNetworkGrabber\PCNetworkGrabber\obj\Debug\PCNetworkGrabber.csprojAssemblyReference.cache
+C:\Users\ALEX\source\repos\PCNetworkGrabber\PCNetworkGrabber\obj\Debug\PCNetworkGrabber.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\source\repos\PCNetworkGrabber\PCNetworkGrabber\bin\Debug\PCNetworkGrabber.exe.config
+C:\Users\ALEX\source\repos\PCNetworkGrabber\PCNetworkGrabber\bin\Debug\PCNetworkGrabber.exe
+C:\Users\ALEX\source\repos\PCNetworkGrabber\PCNetworkGrabber\bin\Debug\PCNetworkGrabber.pdb
+C:\Users\ALEX\source\repos\PCNetworkGrabber\PCNetworkGrabber\bin\Debug\diCrSysPKINet.dll
+C:\Users\ALEX\source\repos\PCNetworkGrabber\PCNetworkGrabber\obj\Debug\PCNetworkGrabber.csproj.CopyComplete
+C:\Users\ALEX\source\repos\PCNetworkGrabber\PCNetworkGrabber\obj\Debug\PCNetworkGrabber.exe
+C:\Users\ALEX\source\repos\PCNetworkGrabber\PCNetworkGrabber\obj\Debug\PCNetworkGrabber.pdb
